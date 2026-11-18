@@ -4,14 +4,10 @@
 Wyburn-Powell, C. & Jahn, A. Brief Communication: The Interdecadal Pacific Oscillation is not a Reliable Indicator of the Timing of an Ice-Free Arctic. *The Cryosphere*. Manuscript EGUSPHERE-2026-2082, accepted on 2026-10-20.
 
 ## Location of data
-The data required to reproduce all figures in the journal article can be found at The Arctic Data Center: https://doi.org/10.xxxxx. The Jupyter Notebooks and important input and output files used to create each published figure are listed below.
+The data required to reproduce all figures in the journal article can be found at The Arctic Data Center: [doi:10.18739/A22B8VF1X](https://doi.org/10.18739/A22B8VF1X). 
 
 ## Abstract of journal article
-The Arctic is transitioning towards a seasonally ice-free state over the next few decades, with internal variability
-determining precisely when. The phase of the Interdecadal Pacific Oscillation (IPO) has been proposed to reduce internal
-variability uncertainty in ice-free predictions. Using eight large ensembles from the Coupled Model Intercomparison Project Phase 5 (CMIP5) and CMIP6, starting from current mean sea ice extent, we find no agreement that the IPO affects ice-free
-timing. However, a majority of large ensembles indicate the IPO can affect the rate and spatial distribution of Arctic sea ice
-decline over the next two decades.
+The Arctic is transitioning towards a seasonally ice-free state over the next few decades, with internal variability determining precisely when. The phase of the Interdecadal Pacific Oscillation (IPO) has been proposed to reduce internal variability uncertainty in ice-free predictions. Using eight large ensembles from the Coupled Model Intercomparison Project Phase 5 (CMIP5) and CMIP6, starting from current mean sea ice extent, we find no agreement that the IPO affects ice-free timing. However, a majority of large ensembles indicate the IPO can affect the rate and spatial distribution of Arctic sea ice decline over the next two decades.
 
 <br>
 
